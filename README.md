@@ -1,6 +1,6 @@
-👋 Olá, eu sou o Juan Carlos!
+👋 Olá, eu sou o Juan Carlos, tenho 21 anos e sou formado em Analise e desenvolvimento de sistemas!
 
-💻 Entusiasta de Tecnologia | 🔐 Estudando Cibersegurança | ☕ SQL & Web Basics
+💻 Entusiasta de Tecnologia | 🔐 Estudando Cibersegurança | ☕ SQL & Web Basics | 🛠️ Support & Analyst 
 
 🚀 Sobre mim
 
